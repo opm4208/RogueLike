@@ -13,6 +13,8 @@ GameObject:
   - component: {fileID: 7913702382839716983}
   - component: {fileID: 8325257207181964835}
   - component: {fileID: 4736245770184825931}
+  - component: {fileID: 767393379453185767}
+  - component: {fileID: 4750308101413234556}
   m_Layer: 0
   m_Name: Skeleton
   m_TagString: Untagged
@@ -145,3 +147,34 @@ CapsuleCollider2D:
   m_Offset: {x: 0.08167422, y: -0.004876077}
   m_Size: {x: 0.45887375, y: 1.0146283}
   m_Direction: 0
+--- !u!114 &767393379453185767
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6272450059129381633}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7752bbea9ca08f640972f878a26daad5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 0
+  detectRange: 0
+  attackRange: 7
+  attackTime: 5
+  attackPower: 10
+  maxHP: 20
+--- !u!114 &4750308101413234556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6272450059129381633}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c46ac5e7051bb4583515784a5853fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dataModel: {fileID: 767393379453185767}
