@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 334c01e561160684da2c443475cfe74f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 90
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Cloaked Undead_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 291
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c2d988ed7519540b6069e64319f30e
+      internalID: 1560401119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Cloaked Undead_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 290
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d89ae011f98bd144980e3081a767369
+      internalID: -389253846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Cloaked Undead_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 290
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd743926030c0394eaff7211883e330b
+      internalID: 557392722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Cloaked Undead_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 291
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb94c36d4109e7c41a2e84cee34d4983
+      internalID: -1429388783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Cloaked Undead_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb7fff89cbf83b41bc2d1f4fc5872ab
+      internalID: 1349485727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Cloaked Undead_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 194
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5c19212241b1341970f10d3de72138
+      internalID: 1990304334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Cloaked Undead_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 204
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9b87ff216517f439773e77fd40bb7a
+      internalID: -969589980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Cloaked Undead_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 228
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b39df5164919e49aac285a0d132c3c
+      internalID: 769331515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Cloaked Undead_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 97
+        width: 43
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f108c35a4ac804fbc45063d429c4c0
+      internalID: 1882600977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Cloaked Undead_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 47
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be7309bbc797a44fa44af82dcdd6faa
+      internalID: 463558155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Cloaked Undead_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 99
+        width: 51
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2c756ff7ccc6445918f20476706161
+      internalID: 1173285993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Cloaked Undead_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 129
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6804131c1d5e43449048f114e90273f
+      internalID: -1011212626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Cloaked Undead_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 36
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dfbb6941b4cf042ad4fa91822a4804
+      internalID: 997354295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Cloaked Undead_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 10
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46efbeefe9413342bdb41588c12c074
+      internalID: 1038308770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Cloaked Undead_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 18
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b3095045c59a84793a0a80ba629be7
+      internalID: 976651961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Cloaked Undead_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 36
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c78ae4fe6db084cbdab7c57d2d91b6
+      internalID: 65180381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NEC PC-9801 - Rusty - Cloaked Undead_0: 1560401119
+      NEC PC-9801 - Rusty - Cloaked Undead_1: -389253846
+      NEC PC-9801 - Rusty - Cloaked Undead_10: 1173285993
+      NEC PC-9801 - Rusty - Cloaked Undead_11: -1011212626
+      NEC PC-9801 - Rusty - Cloaked Undead_12: 997354295
+      NEC PC-9801 - Rusty - Cloaked Undead_13: 1038308770
+      NEC PC-9801 - Rusty - Cloaked Undead_14: 976651961
+      NEC PC-9801 - Rusty - Cloaked Undead_15: 65180381
+      NEC PC-9801 - Rusty - Cloaked Undead_2: 557392722
+      NEC PC-9801 - Rusty - Cloaked Undead_3: -1429388783
+      NEC PC-9801 - Rusty - Cloaked Undead_4: 1349485727
+      NEC PC-9801 - Rusty - Cloaked Undead_5: 1990304334
+      NEC PC-9801 - Rusty - Cloaked Undead_6: -969589980
+      NEC PC-9801 - Rusty - Cloaked Undead_7: 769331515
+      NEC PC-9801 - Rusty - Cloaked Undead_8: 1882600977
+      NEC PC-9801 - Rusty - Cloaked Undead_9: 463558155
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

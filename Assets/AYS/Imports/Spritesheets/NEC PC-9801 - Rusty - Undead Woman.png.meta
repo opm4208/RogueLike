@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: e2bc5ef50ce0a974abf980e69e918f51
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Undead Woman_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 98
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef24e502ac702884c8112da58a2c8762
+      internalID: 2100168536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Undead Woman_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 96
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934d2b6f7985e494e8f3570f74e85a62
+      internalID: 12746163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Undead Woman_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 94
+        width: 39
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b7e9787456bed4983cc3309cfb4efa
+      internalID: -606872778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Undead Woman_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 96
+        width: 47
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f6e1acab0cbf84ea76a5094ab46a7b
+      internalID: 998125818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Undead Woman_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 98
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8243110eddf5b74cbd8b24740908456
+      internalID: 275430368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Undead Woman_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 121
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e003332dfd833f4481cea4f9ed27fca
+      internalID: 826592173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Undead Woman_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 121
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cd1a37394e28b43b962d836757a1d6
+      internalID: 1370653158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Undead Woman_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 116
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1881ff315ea02d7489a8bf49f7fda154
+      internalID: -1359684497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Undead Woman_9
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 105
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3ca7df525054542911a388272b1bb4
+      internalID: 1013341492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Undead Woman_10
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 110
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ce74265283e1f48817ffca3f462043
+      internalID: 814759200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Undead Woman_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 16
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6073148e4e7324a8c7decf0cdd6554
+      internalID: -757949964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEC PC-9801 - Rusty - Undead Woman_16
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 18
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2278d448399274ca364c3967625359
+      internalID: -493326712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NEC PC-9801 - Rusty - Undead Woman_0: 2100168536
+      NEC PC-9801 - Rusty - Undead Woman_1: 12746163
+      NEC PC-9801 - Rusty - Undead Woman_10: 814759200
+      NEC PC-9801 - Rusty - Undead Woman_11: -1736686013
+      NEC PC-9801 - Rusty - Undead Woman_12: 481129129
+      NEC PC-9801 - Rusty - Undead Woman_13: -783691186
+      NEC PC-9801 - Rusty - Undead Woman_14: 428995531
+      NEC PC-9801 - Rusty - Undead Woman_15: -757949964
+      NEC PC-9801 - Rusty - Undead Woman_16: -493326712
+      NEC PC-9801 - Rusty - Undead Woman_17: 1368648310
+      NEC PC-9801 - Rusty - Undead Woman_18: 821186556
+      NEC PC-9801 - Rusty - Undead Woman_19: 1614095447
+      NEC PC-9801 - Rusty - Undead Woman_2: -606872778
+      NEC PC-9801 - Rusty - Undead Woman_3: 998125818
+      NEC PC-9801 - Rusty - Undead Woman_4: 275430368
+      NEC PC-9801 - Rusty - Undead Woman_5: 826592173
+      NEC PC-9801 - Rusty - Undead Woman_6: -119476434
+      NEC PC-9801 - Rusty - Undead Woman_7: 1370653158
+      NEC PC-9801 - Rusty - Undead Woman_8: -1359684497
+      NEC PC-9801 - Rusty - Undead Woman_9: 1013341492
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
