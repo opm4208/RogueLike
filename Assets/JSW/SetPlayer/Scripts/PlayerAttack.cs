@@ -42,7 +42,7 @@ public class PlayerAttack : MonoBehaviour
                     {
                         if (collider.tag == "Enemy")
                         {
-                            collider.GetComponent<Enemy>().GetDamange(5f);
+                            collider.GetComponent<Enemy>().GetDamage(5f);
                         }
                     };
                     anim.SetTrigger("IsAttackA");
@@ -63,7 +63,7 @@ public class PlayerAttack : MonoBehaviour
                         if (collider.tag == "Enemy")
                         {
                             Debug.Log("Attack damege");
-                            collider.GetComponent<Enemy>().GetDamange(5f);
+                            collider.GetComponent<Enemy>().GetDamage(5f);
                         }
                     }
                     Debug.Log("Anime2");
@@ -83,7 +83,7 @@ public class PlayerAttack : MonoBehaviour
                         if (collider.tag == "Enemy")
                         {
                             Debug.Log("Attack damege");
-                            collider.GetComponent<Enemy>().GetDamange(5f);
+                            collider.GetComponent<Enemy>().GetDamage(5f);
                         }
                     }
                     Debug.Log("Anime3");
