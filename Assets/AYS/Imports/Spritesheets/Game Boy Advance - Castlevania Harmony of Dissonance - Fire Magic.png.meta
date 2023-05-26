@@ -1,0 +1,3964 @@
+fileFormatVersion: 2
+guid: 7f7275e0475a395409a3c2ba037d9ae3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 221
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9734d762f88090f429b2e196a2862e62
+      internalID: 861294810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 221
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdfa160c05756c4cbd1a109d88dff23
+      internalID: -1808194684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 221
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e09fc149b497d498b0833f05534983
+      internalID: -976610094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 220
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392e67ecda00ff64982ce2ed330e3124
+      internalID: -1735485460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 234
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079437aadb8a84744897d979598ba603
+      internalID: 2136594396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 234
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eea94cf0566dc4092625b166fc6cff
+      internalID: -889553897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_6
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 234
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed1e014460c50a4dbed924c5d03d70f
+      internalID: -1676265021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 234
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45d380c8847c434ab5c8e524c50c8fd
+      internalID: 1083918895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 236
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db5af5f23570eb4c86c4096115f76da
+      internalID: -1571172703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_9
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 236
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c263e583c437de4dbc6eadf36bbdc56
+      internalID: 427539835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 238
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda19ecffd23da84f872e54bd8b44553
+      internalID: 1133450741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 238
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21470f41b14bab34ab7314a93f5536e7
+      internalID: 764720168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 216
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac675b17c52b43e4e87c530ed4f3c228
+      internalID: 1638050597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 216
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89209626b573c244787648aa342a79a6
+      internalID: 38653379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 216
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31eeb2ed230d01948a7ff075408ad904
+      internalID: 994045713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 216
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288a5e1d9633a324093e9b8c2d5ac948
+      internalID: -940446007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 217
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faa7f570f5e3e641823161d2b7605f8
+      internalID: -1978430969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_17
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 217
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55642e1251a1544fb4d87df46b07fad
+      internalID: -1957605138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_18
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 219
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4d4db14945b4b428fb4ac1ade3e0d4
+      internalID: -1581218873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_19
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 219
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03071f216e0503747b88f966affcef43
+      internalID: 1077581423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dc910779a0b9a4587a960b53d1adc4
+      internalID: 188987515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 211
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bf775ba8370fc44ba9a64ce20a1ed5
+      internalID: -55073481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_22
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 202
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515e7f9d362f6a345a8a3d82f54f3fbd
+      internalID: 739054844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 186
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f53e1d836fcd0f43ae34ab143178982
+      internalID: -1490470352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 186
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb3482b8e2fa2e44b02f5f229d6f71a
+      internalID: 1020800318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 191
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045fb52ee0c3e534abaf7077330ede09
+      internalID: 659982319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 201
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ee1f3d9a542884a844dce13a805721
+      internalID: 2059514609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_27
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 189
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a2fbce9f31d0b438040d71ed80f653
+      internalID: 137936990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_28
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 189
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac3f571c2ef2a8489e3eb18ee0f09ed
+      internalID: 960988192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_29
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 189
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815288bd4e7700148a47fca42445f2b0
+      internalID: 950185718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_30
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 189
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc6a614661e4264b9dfa19ea87c6669
+      internalID: 1785760964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_31
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 191
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb62a98e5f5db2478d6a718c42ff0d0
+      internalID: 1632713135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 184
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df30e6ff4e3f5b429b79847726b6b66
+      internalID: 1398268343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_33
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 185
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8228e4111cff549bdb4d299f0db31c
+      internalID: -644889351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 149
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e121ccdc0bb44e2449b5c67f43734707
+      internalID: -461444842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_35
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 149
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2967373a16312af4c9c0b05ab920c5b9
+      internalID: -2142669460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_36
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 150
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8322d5b04d3d56f43a1feba1fa139429
+      internalID: -1313638372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_37
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 150
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a6740505b442b41bc9c130b2c5fb80
+      internalID: -878889647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_38
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 150
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ffecc444b885d4a89c216bf7b8d0e8
+      internalID: -1224969804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_39
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 150
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf24adbe1427f4408f4d53b3d4d030f
+      internalID: 1020797756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_40
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 156
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7661b1c091d7cf84c812d2d1765a9ba1
+      internalID: 1383876953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_41
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 156
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a93915948bb064f8522a3802de940f
+      internalID: -1794951608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_42
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 154
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fb2ce4cb5f59f48bb971a57fb244af
+      internalID: 817113348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_43
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 154
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d74f80dd7d3ded4b97667dfe1bfdcb0
+      internalID: -716461729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_44
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a3e313627458247876d6c3e7ac6e98
+      internalID: -1154321237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_45
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 150
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc89ac64b2f872745b9c45190cfc4b09
+      internalID: 204720614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671e821ca4a4d72468da34218cf1a842
+      internalID: -1332520974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baf2534578b8d144938da40591007a2
+      internalID: 2070682243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 130
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89990523d83f20b49975421acccc7e6e
+      internalID: 274716228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71cf6935ecc90b49ae615fcdac6cf8e
+      internalID: -633954202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babf7a573307e0842a86cba703d7f460
+      internalID: 760894278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_51
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2385c02a72a76f14187757682f5d8ba3
+      internalID: 795216858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_52
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b054cc90253e649b413d4774fe1b5e
+      internalID: -1703915913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_53
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60274f9d622c0a049977755bb24590f3
+      internalID: 581168438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_54
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 114
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db689ff89ef4f542bf74a1b32b50be0
+      internalID: 88238089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_55
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 112
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e0e452e6880004497aaf7e72a13898
+      internalID: -1459689005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_56
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 109
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dd9bbaf3864414d93ce56cf16c7af5
+      internalID: -1423367252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_57
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 108
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a641d85487341a44a2f2bf3494409d7
+      internalID: 946040206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17c234022db205449985454bc7fd443
+      internalID: -48735548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_59
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e8f795e51b5084bb6fc496ac6476a7
+      internalID: -1659832503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_60
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 109
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b0cb0b67cc2e54cba8bfccaf03cf2d
+      internalID: 1179803058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_61
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 108
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a53cfda29d6b7d478762894c93a93ec
+      internalID: 252108341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_62
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 108
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff54c1d74cafa647ba3a3612ceba364
+      internalID: -1817769998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_63
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1e9ec929c339d479899bd28405bf68
+      internalID: -998273496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_64
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5285ddbeb42ea6e458d00fe8981f74cd
+      internalID: -536345998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_65
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b280f53dbfd24d4488bb763402ba62a8
+      internalID: -27475588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_66
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 84
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9349afa3da08145ab25a292d71d0c4
+      internalID: -300491790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_67
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 84
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b440d90f9b0e142886876285158224
+      internalID: -1695525636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_68
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97828d58369a1294f8194080c97f3b04
+      internalID: 1878592401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_69
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 84
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607d965f6a841b1438b055fa0ecc019b
+      internalID: 1655324847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_70
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae745944af93014b9912b0ae2d6f514
+      internalID: -952567424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_71
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3812e9d50391daf4995f92d02f916184
+      internalID: -1247971464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_72
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e91ba8536005af4dbf961a60e9b26a4
+      internalID: 66407818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_73
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 77
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fd42921c5a1d749b7c1cf8332d955a
+      internalID: -2097408140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_74
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 79
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a213a37badc6f7438690712e1e866e1
+      internalID: -12485933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_75
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f562140e3cfc87b4799f3b8864188fd2
+      internalID: 1190130141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_76
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 65
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d458692794e3fe44e9e0d09e5075bd0b
+      internalID: -1989260765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_77
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 65
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59f43c4583abc6478e625bed9ae773b
+      internalID: -2057757038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_78
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba867f16bc3dcb54dae875df7f2e832c
+      internalID: 1432169362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_79
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 65
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d88ca60a0313624d9aadd7ebfa91252
+      internalID: -1515912351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_80
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a36dc91e7fa2345a9e84274752c4e3
+      internalID: -398178865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_81
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 79
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ad54178b5a73d47b7ade512a80af0c
+      internalID: -1934973557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_82
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 79
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7d164c0f044de4fa8c5e2f98bd3130
+      internalID: -1163673400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_83
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 79
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31f53baec7025041b94ad2f8b6ee4fb
+      internalID: 963102551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_84
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 79
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9927e2123cf5c4d89633f16575a670
+      internalID: -1872692780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_85
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 79
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65d62f13530e3540850c80c99277070
+      internalID: 1281322816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_86
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 67
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1e4f96c49d8cf4dbd62359d79cd0d2
+      internalID: 244478471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_87
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 67
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa40c09cc77b4a4483cc294ce1e212a
+      internalID: 464792308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_88
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 67
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1e830eae8ee69499604f67a668d123
+      internalID: 186372575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_89
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 67
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba7c8d8f7ac4e94bb78267b39fb1dca
+      internalID: -1188460414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_90
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 67
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8cff23dfedabc4bb76aeb4bf5b62e8
+      internalID: -1248633049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_91
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 67
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2ee5dc168cbae46a684bd76945d020
+      internalID: 1800410740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_92
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 67
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3dd311a38843c4ea4d29f019910934
+      internalID: -647950849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_93
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 67
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e1d764240384d4abe10866e4d9f2e5
+      internalID: 1840598700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_94
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 67
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c1a0fc277a94e45839b6626eb5cbef
+      internalID: 2109843130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_95
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 67
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb8513ffef51b9469dbe41ab8181e2d
+      internalID: -368901400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_96
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 67
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f45f9da829a46a429cd9b251159f993
+      internalID: 1249660761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_97
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 67
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ba9aaaaf228644eac4761444aba27f
+      internalID: -1824230237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_98
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8784f2d6cab957042a672f5067008f00
+      internalID: 308449720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_99
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 46
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedf629ce473ac84d9dee0ebc1b3c317
+      internalID: -1320500163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_100
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 46
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4415ba27d68a02943bd2a3fb5228be50
+      internalID: -1047834149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_101
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dc61e069169b840a3588e9187b8d29
+      internalID: 1757404516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_102
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 46
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a917eabce4750449ce9e205a4454a7
+      internalID: 1631380498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_103
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e4ed80008e6c642b5a0db9998d9f28
+      internalID: 606876579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_104
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 55
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856415dc66cdd264eba062ed895bb423
+      internalID: 896286016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_105
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 53
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760208bcf6adc0749840d2952e5c3f77
+      internalID: -1143519861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_106
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 53
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e2889c20a57b544a5f4995a64e5b9e
+      internalID: 1181629920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_107
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 55
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39255fb0f782edf4793d48101c140ad4
+      internalID: 260138290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_108
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 55
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da42ee67927e3454889e40d1e50af735
+      internalID: -1455436010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_109
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 55
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22adb7c98650d2a45b36f2f02c4af1d9
+      internalID: 1561532369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_110
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 53
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760db87211b110d43888d3a368fb6389
+      internalID: -1143880277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_111
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 55
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a9b29ff0fefb0458805c85fd0a3867
+      internalID: -718082747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_112
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 54
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa84891c5d4e4804fa87f30df43dd998
+      internalID: 2145843611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_113
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 43
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d43a56445e18841970a374102b939f
+      internalID: -975880309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de1c9be7222ed0419cd3f779aea58a3
+      internalID: 445292166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_115
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 41
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821cdf29b3ae29c49aba34a14b4d695c
+      internalID: -944175854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_116
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 43
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3864106bed88b2f4096ee424ec522611
+      internalID: 513448063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_117
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8b99e7b594c0e419d27207125830b1
+      internalID: -1094588907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_118
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 43
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224939f6352905d48b4e1c129fddc598
+      internalID: -535015568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_119
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 43
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cbaf319b2743144a59a810a0afb2f9
+      internalID: 141289036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_120
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 41
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc1979bae28b024abede969a6a30a19
+      internalID: 1514868627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_121
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d593c3698a9ed94597ebe1b0b16f067
+      internalID: -1716090244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_122
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7c20d715703c8408083492a7bcd364
+      internalID: 473482935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_123
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f599493c4ef0c4a9f774abe9f7e090
+      internalID: -845279905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_124
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878dde77db552b846b9374b0fb2697d5
+      internalID: 2051166036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_125
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 27
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c8439a838129c4986afac6ca463dec
+      internalID: 618334726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_126
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 27
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b435c385dc500f2468da34b929d64aba
+      internalID: 1017796862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_127
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08018a1af538d454ba8ce38ad4e05998
+      internalID: -504792491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_128
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 27
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac727b100f57c80429e48a2dba070210
+      internalID: -1630421485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_129
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 7
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d617b301b0a364dbde535e2e4a7069
+      internalID: -437245823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_130
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7fa9eb13d7e6a43a9a98abf0cfe34d
+      internalID: 1536403893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_131
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69465a25703bcda44a74b3170f65b7bf
+      internalID: -166858467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_132
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 29
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c457730838daf4247b1ce4db41f7d7bf
+      internalID: -43919488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_133
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 29
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6d765265981ae4081d26a24d25a474
+      internalID: 1478269170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_134
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 29
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da2ac3d8d628c64b9c5b09ad4c7ea12
+      internalID: -603283593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_135
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 31
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102b703174275a943bfb185f7626bce4
+      internalID: 432111834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 31
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ef16b651dffb24582bb14f6b81c127
+      internalID: 1354659945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_137
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 31
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fd82afcdfae6043a0809bd70c6f92f
+      internalID: 1233575006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_138
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf4d9c4a6d00044095aad19cc7fd0e8
+      internalID: -264922480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_139
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdee7f586cd0ecc41a9c52ce404e845b
+      internalID: 1639833827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_140
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dec0cf92935f343aed018d57cd06f7
+      internalID: 515851833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_141
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 31
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf5b96057852e742af28ae9f2636ffa
+      internalID: -606746509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_142
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9c7a39289868f478475d4170ad3b75
+      internalID: 416599238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_143
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d29969a01ba5c04993ffb12864e3b11
+      internalID: -244229242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_144
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 17
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a133a532ea5874f87977dffeaa019d
+      internalID: 1948584974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_145
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 5
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7240f7905999bf40b154316075a2c6a
+      internalID: -1229675525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_146
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6511d6527fb79df42be5efc1d5240387
+      internalID: -1361587802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_147
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bed258643569d458665bef9851977b
+      internalID: -1390002167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_148
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 17
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccc378459567d141bbace141076a60b
+      internalID: 2035963693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_149
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 5
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955030104652d5547b9f322e751adf9e
+      internalID: 1003749957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_150
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de555476d0e5114c89a761eccec8598
+      internalID: 533504734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_151
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 19
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd803707f555374a99264dbd6b7445a
+      internalID: -217651053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_152
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 19
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae80bbfc5d1eb234dbaf3fcbe94ca323
+      internalID: 91611104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_153
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5227c899a91b4eb45b8ea73138ec8868
+      internalID: -608673919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_154
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ad9e74f7adba84aa756010bb482f42
+      internalID: 1121950078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_155
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b379deeddf8d04ba9d9f779ab5155f
+      internalID: -301283945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_156
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd21ff1966f1134195ec64af62d1551
+      internalID: -476543724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_157
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 19
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ae82442b659d149b6368e4d1b66ac5
+      internalID: -1981214325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_158
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b5f9e872b869b4285852d617228268
+      internalID: -2046710208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_159
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9460fbd90435c44897367bcca75ac6
+      internalID: -353930922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_160
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfbd4542aab1b14095a2296589190fb
+      internalID: -1529333181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_161
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c0b7487c0c3b7429df5378c0ff3bdc
+      internalID: 616830372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_162
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f19894f5098494b9b6c09c64189233
+      internalID: -1111898845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_163
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d321e41a7e919f84eabde809c18d2078
+      internalID: -2086081228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_164
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288569e0aebf0bb40bf47500fb586bca
+      internalID: 569218495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_165
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566194aff7247eb4c8f7f53aba5089da
+      internalID: -1062405655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_166
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dbb1d7cfbe8ed42b6dff467a53c736
+      internalID: -876608953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_167
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183cd1d12726a12418ba0368c2c3a844
+      internalID: 1741701862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_168
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 6
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c72cf00fe3acb429532842dbed3dbe
+      internalID: -1308274478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_169
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 4
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf68a487f3bc4c4ab61b6449ab5f69d
+      internalID: -1799290239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_170
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 4
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49275902e7bc314581836fef6a43503
+      internalID: 211687731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_171
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01245523b280dc941af57dd4a16dd87c
+      internalID: 1777232668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_172
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 6
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3502ee7392352a14a86aeecdf696f230
+      internalID: -83504525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_173
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb8704170f7bba41bb7422c5fb7282f
+      internalID: 160968870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_0: 861294810
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_1: -1808194684
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_10: 1133450741
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_100: -1047834149
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_101: 1757404516
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_102: 1631380498
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_103: 606876579
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_104: 896286016
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_105: -1143519861
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_106: 1181629920
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_107: 260138290
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_108: -1455436010
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_109: 1561532369
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_11: 764720168
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_110: -1143880277
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_111: -718082747
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_112: 2145843611
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_113: -975880309
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_114: 445292166
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_115: -944175854
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_116: 513448063
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_117: -1094588907
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_118: -535015568
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_119: 141289036
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_12: 1638050597
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_120: 1514868627
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_121: -1716090244
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_122: 473482935
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_123: -845279905
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_124: 2051166036
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_125: 618334726
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_126: 1017796862
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_127: -504792491
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_128: -1630421485
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_129: -437245823
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_13: 38653379
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_130: 1536403893
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_131: -166858467
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_132: -43919488
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_133: 1478269170
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_134: -603283593
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_135: 432111834
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_136: 1354659945
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_137: 1233575006
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_138: -264922480
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_139: 1639833827
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_14: 994045713
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_140: 515851833
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_141: -606746509
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_142: 416599238
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_143: -244229242
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_144: 1948584974
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_145: -1229675525
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_146: -1361587802
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_147: -1390002167
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_148: 2035963693
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_149: 1003749957
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_15: -940446007
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_150: 533504734
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_151: -217651053
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_152: 91611104
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_153: -608673919
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_154: 1121950078
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_155: -301283945
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_156: -476543724
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_157: -1981214325
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_158: -2046710208
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_159: -353930922
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_16: -1978430969
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_160: -1529333181
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_161: 616830372
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_162: -1111898845
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_163: -2086081228
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_164: 569218495
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_165: -1062405655
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_166: -876608953
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_167: 1741701862
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_168: -1308274478
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_169: -1799290239
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_17: -1957605138
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_170: 211687731
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_171: 1777232668
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_172: -83504525
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_173: 160968870
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_174: 174427189
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_18: -1581218873
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_19: 1077581423
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_2: -976610094
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_20: 188987515
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_21: -55073481
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_22: 739054844
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_23: -1490470352
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_24: 1020800318
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_25: 659982319
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_26: 2059514609
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_27: 137936990
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_28: 960988192
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_29: 950185718
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_3: -1735485460
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_30: 1785760964
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_31: 1632713135
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_32: 1398268343
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_33: -644889351
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_34: -461444842
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_35: -2142669460
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_36: -1313638372
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_37: -878889647
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_38: -1224969804
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_39: 1020797756
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_4: 2136594396
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_40: 1383876953
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_41: -1794951608
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_42: 817113348
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_43: -716461729
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_44: -1154321237
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_45: 204720614
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_46: -1332520974
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_47: 2070682243
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_48: 274716228
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_49: -633954202
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_5: -889553897
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_50: 760894278
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_51: 795216858
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_52: -1703915913
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_53: 581168438
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_54: 88238089
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_55: -1459689005
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_56: -1423367252
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_57: 946040206
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_58: -48735548
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_59: -1659832503
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_6: -1676265021
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_60: 1179803058
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_61: 252108341
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_62: -1817769998
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_63: -998273496
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_64: -536345998
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_65: -27475588
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_66: -300491790
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_67: -1695525636
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_68: 1878592401
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_69: 1655324847
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_7: 1083918895
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_70: -952567424
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_71: -1247971464
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_72: 66407818
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_73: -2097408140
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_74: -12485933
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_75: 1190130141
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_76: -1989260765
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_77: -2057757038
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_78: 1432169362
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_79: -1515912351
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_8: -1571172703
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_80: -398178865
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_81: -1934973557
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_82: -1163673400
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_83: 963102551
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_84: -1872692780
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_85: 1281322816
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_86: 244478471
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_87: 464792308
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_88: 186372575
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_89: -1188460414
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_9: 427539835
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_90: -1248633049
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_91: 1800410740
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_92: -647950849
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_93: 1840598700
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_94: 2109843130
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_95: -368901400
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_96: 1249660761
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_97: -1824230237
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_98: 308449720
+      Game Boy Advance - Castlevania Harmony of Dissonance - Fire Magic_99: -1320500163
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

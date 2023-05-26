@@ -1,20 +1,18 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using static UnityEngine.GraphicsBuffer;
 
-public class SkeletonAttack : MonoBehaviour
+public class BossAttack : MonoBehaviour
 {
 	[SerializeField]
 	private float AttackSpeed; //공격 속도
 
-	Transform target;
+	Transform target => GameObject.FindGameObjectWithTag("Player").transform;
 	Vector3 targetPos;
 
 	void Start()
 	{
-		target = GameObject.FindGameObjectWithTag("Player").transform;
-		targetPos = target.position;
+		targetPos = GameObject.FindGameObjectWithTag("Player").transform.position;
 	}
 
 	private void Update()
@@ -25,8 +23,7 @@ public class SkeletonAttack : MonoBehaviour
 
 	private void DoAttack()
 	{
-		var dir = (targetPos - transform.position).normalized;
-		transform.Translate(dir * AttackSpeed * Time.deltaTime);
+		transform.Translate(transform.right * AttackSpeed * Time.deltaTime);
 	}
 
 	private void ClearAttack()
