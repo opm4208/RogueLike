@@ -10,6 +10,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float jumpPower;
     [SerializeField] private float maxSpeed;
     public int playerhp=20;
+    public int playermaxhp=20;
 
     [SerializeField] LayerMask groundLayer;
 
