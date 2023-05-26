@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: -8932135872384609340}
   - component: {fileID: -8984323783134634400}
   - component: {fileID: -2230411169190949009}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: UnDead
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -178,3 +178,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dataModel: {fileID: -8984323783134634400}
+  OnDead:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 7886858273302600390}
+        m_TargetAssemblyTypeName: UnityEngine.Animator, UnityEngine
+        m_MethodName: SetTrigger
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: DoDie
+          m_BoolArgument: 0
+        m_CallState: 2
