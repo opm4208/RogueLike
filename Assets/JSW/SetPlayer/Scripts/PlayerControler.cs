@@ -11,12 +11,15 @@ public class PlayerControler : MonoBehaviour
     [SerializeField] private float maxSpeed;
     [SerializeField] private float jumpPower;
     [SerializeField] LayerMask groundChack;
+    [SerializeField] private GameObject attackRange;
+    
 
     private Rigidbody2D rb;
     private Vector2 inputDir;
     private Animator anim;
     private new SpriteRenderer renderer;
     private CapsuleCollider2D capsule;
+    
 
     public bool isGround;
 
@@ -42,11 +45,13 @@ public class PlayerControler : MonoBehaviour
         {
             rb.transform.Translate(Vector3.right * -moveSpeed * Time.deltaTime);
             capsule.offset = Vector2.left * 0.2264565f;
+            attackRange.transform.position = new Vector3(transform.position.x - 1, transform.position.y, 0);
         }
         else if (inputDir.x > 0 && rb.velocity.x < maxSpeed)
         {
             rb.transform.Translate(Vector3.right * moveSpeed * Time.deltaTime);
             capsule.offset = Vector2.right * 0.2264565f;
+            attackRange.transform.position = new Vector3(transform.position.x + 1, transform.position.y, 0);
 
         }
     }
