@@ -12,5 +12,6 @@ public class PlayerStatus : MonoBehaviour
         hp = maxHp;
     }
 
-    private int Hp { get { return hp; } set { hp -= value; } }
+    public int Hp { get { return hp; } set { hp -= value; } }
+    public int MaxHp { get { return maxHp; } }
 }
