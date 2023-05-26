@@ -37,9 +37,12 @@ public class UnDeadController : Enemy
 		}
 	}
 
-	public override void GetDamange(float damage)
+	public override void GetDamage(float damage)
 	{
-		base.GetDamange(damage);
+		if (curHP <= 0)
+			return;
+
+		base.GetDamage(damage);
 
 		if (curHP <= 0)
 		{

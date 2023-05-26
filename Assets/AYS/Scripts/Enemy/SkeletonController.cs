@@ -41,9 +41,18 @@ public class SkeletonController : Enemy
 		}
 	}
 
-	public override void GetDamange(float damage)
+	private void OnDrawGizmos()
 	{
-		base.GetDamange(damage);
+		Gizmos.color = Color.red;
+		Gizmos.DrawWireSphere(transform.position, DataModel.AttackRange);
+	}
+
+	public override void GetDamage(float damage)
+	{
+		if (curHP <= 0)
+			return;
+		
+		base.GetDamage(damage);
 
 		if (curHP <= 0)
 		{
@@ -57,18 +66,13 @@ public class SkeletonController : Enemy
 		Destroy(20f);
 	}
 
-	private void OnDrawGizmos()
-	{
-		Gizmos.color = Color.red;
-		Gizmos.DrawWireSphere(transform.position, DataModel.AttackRange);
-	}
+	
 
 	public void MakeAttack()
 	{
 		Instantiate(AttackObj, AttackPoint.position, AttackPoint.rotation);
 	}
 }
-
 
 namespace Skeleton
 {
