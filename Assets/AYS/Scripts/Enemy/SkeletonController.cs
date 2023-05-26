@@ -8,6 +8,13 @@ using Unity.VisualScripting;
 
 public class SkeletonController : Enemy
 {
+	[Header("Shooter")]
+	[SerializeField]
+	private GameObject AttackObj;
+
+	[SerializeField]
+	private Transform AttackPoint;
+
 	private StateMachine<EnemyStateType, SkeletonController> stateMachine;
 
 	protected override void Awake()
@@ -17,7 +24,6 @@ public class SkeletonController : Enemy
 		stateMachine = new StateMachine<EnemyStateType, SkeletonController>(this);
 		stateMachine.AddState(EnemyStateType.Idle, new IdleState(this, stateMachine));
 		stateMachine.AddState(EnemyStateType.Attack, new AttackState(this, stateMachine));
-		stateMachine.AddState(EnemyStateType.Die, new DieState(this, stateMachine));
 	}
 
 	protected override void Start()
@@ -33,21 +39,33 @@ public class SkeletonController : Enemy
 		{
 			stateMachine.Update();
 		}
-		else
+	}
+
+	public override void GetDamange(float damage)
+	{
+		base.GetDamange(damage);
+
+		if (curHP <= 0)
 		{
 			Die();
 		}
 	}
 
-	protected void Die()
+	private void Die()
 	{
-		stateMachine.ChangeState(EnemyStateType.Die);
+		Animator.SetTrigger("DoDie");
+		Destroy(20f);
 	}
 
 	private void OnDrawGizmos()
 	{
 		Gizmos.color = Color.red;
 		Gizmos.DrawWireSphere(transform.position, DataModel.AttackRange);
+	}
+
+	public void MakeAttack()
+	{
+		Instantiate(AttackObj, AttackPoint.position, AttackPoint.rotation);
 	}
 }
 
@@ -129,43 +147,14 @@ namespace Skeleton
 				animator.SetTrigger("DoAttack");
 
 				//todo. 공격 구현 
-				Debug.Log($"[공격] {owner.DataModel.AttackPower}");
+				owner.MakeAttack();
 
 				lastAttakTime = 0;
+
+				//owner.GetDamange(owner.DataModel.AttackPower);
 			}
 			lastAttakTime += Time.deltaTime;
 
-		}
-	}
-
-	public class DieState : EnemyStatePattern<SkeletonController>
-	{
-		public DieState(SkeletonController owner, StateMachine<EnemyStateType, SkeletonController> stateMachine)
-			: base(owner, stateMachine)
-		{
-		}
-
-		public override void Setup()
-		{
-			target = owner.Target;
-		}
-
-		public override void Enter()
-		{
-			owner.Destroy();
-		}
-
-		public override void Exit()
-		{
-		}
-
-		public override void Transition()
-		{
-
-		}
-
-		public override void Update()
-		{
 		}
 	}
 }
