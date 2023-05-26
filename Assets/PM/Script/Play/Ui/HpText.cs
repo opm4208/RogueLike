@@ -8,15 +8,15 @@ public class HpText : MonoBehaviour
 {
     private TMP_Text tmp;
     public GameObject Player;
-    private PlayerController controller;
+    private PlayerStatus controller;
 
     private void Awake()
     {
-        controller = Player.GetComponent<PlayerController>();
+        controller = Player.GetComponent<PlayerStatus>();
         tmp = GetComponent<TMP_Text>();
     }
     private void Update()
     {
-        tmp.text = ($"{controller.playerhp}/{controller.playermaxhp}");
+        tmp.text = ($"{controller.Hp}/{controller.MaxHp}");
     }
 }

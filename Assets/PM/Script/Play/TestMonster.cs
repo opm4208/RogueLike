@@ -5,7 +5,6 @@ using UnityEngine;
 
 public class TestMonster : MonoBehaviour
 {
-    private int monsterdamage = 1;
     public GameObject Player;
     public PlayerController PlayerController;
 
