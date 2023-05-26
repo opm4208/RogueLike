@@ -5,11 +5,13 @@ using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
+
 public class PlayerAttack : MonoBehaviour
 {
     private Animator anim;
     public Transform pos;
     public Vector2 boxSize;
+    private bool inTime = true;
 
     private void Awake()
     {
@@ -26,60 +28,86 @@ public class PlayerAttack : MonoBehaviour
     private float curCombo = 1;
     private void Attack()
     {
-        if (curTime <= 0.5f)
+        /*if (a)
         {
-            if (attackCombo == 3)
+            a = false;*/
+            if (curTime <= 0.5f)
             {
-                Debug.Log("Attack_A");
-                // 공격
-                Collider2D[] coll2Da = Physics2D.OverlapBoxAll(pos.position, boxSize, 0);
-                foreach (Collider2D collider in coll2Da)
+                if (attackCombo == 3)
                 {
-                    if (collider.tag == "Enemy")
+                    Debug.Log("Attack_A");
+
+                    Collider2D[] coll2Da = Physics2D.OverlapBoxAll(pos.position, boxSize, 0);
+                    foreach (Collider2D collider in coll2Da)
                     {
-                        collider.GetComponent<Enemy>();
-                    }
+                        if (collider.tag == "Enemy")
+                        {
+                            collider.GetComponent<Enemy>().GetDamange(5f);
+                        }
+                    };
+                    anim.SetTrigger("IsAttackA");
+                    curTime = coolTime;
+                    attackCombo -= 1;
+                    // 코우틴 실행중이면 코루틴 정지
+                    StartCoroutine(WaitForIt());
+
+                    Debug.Log("Attack_Combo1");
                 }
-                anim.SetTrigger("IsAttackA");
-                curTime = coolTime;
-                attackCombo -= 1;
-                Debug.Log("Attack_Combo1");
-            }
-            else if (attackCombo == 2 && curCombo >= 0) 
-            {
-                Collider2D[] coll2Db = Physics2D.OverlapBoxAll(pos.position, boxSize, 0);
-                foreach (Collider2D collider in coll2Db)
+                else if (attackCombo == 2 && curCombo >= 0)
                 {
-                    if (collider.tag == "Enemy")
+                    Debug.Log("Attack_B");
+
+                    Collider2D[] coll2Db = Physics2D.OverlapBoxAll(pos.position, boxSize, 0);
+                    foreach (Collider2D collider in coll2Db)
                     {
-                        collider.GetComponent<Enemy>();
+                        if (collider.tag == "Enemy")
+                        {
+                            Debug.Log("Attack damege");
+                            collider.GetComponent<Enemy>().GetDamange(5f);
+                        }
                     }
+                    Debug.Log("Anime2");
+                    anim.SetTrigger("IsAttackB");
+                    curTime = coolTime;
+                    attackCombo -= 1;
+
+                    Debug.Log("Attack_Combo2");
                 }
-                anim.SetTrigger("IsAttackA");
-                curTime = coolTime;
-                attackCombo -= 1;
-            }
-            else if (attackCombo == 1 && curCombo >= 0)
-            {
-                Collider2D[] coll2Dc = Physics2D.OverlapBoxAll(pos.position, boxSize, 0);
-                foreach (Collider2D collider in coll2Dc)
+                else if (attackCombo == 1 && curCombo >= 0)
                 {
-                    if (collider.tag == "Enemy")
+                    Debug.Log("Attack_C");
+
+                    Collider2D[] coll2Dc = Physics2D.OverlapBoxAll(pos.position, boxSize, 0);
+                    foreach (Collider2D collider in coll2Dc)
                     {
-                        collider.GetComponent<Enemy>();
+                        if (collider.tag == "Enemy")
+                        {
+                            Debug.Log("Attack damege");
+                            collider.GetComponent<Enemy>().GetDamange(5f);
+                        }
                     }
+                    Debug.Log("Anime3");
+                    anim.SetTrigger("IsAttackC");
+                    curTime = coolTime;
+                    attackCombo = 3;
+
+                    Debug.Log("Attack_Combo3");
+
                 }
-                anim.SetTrigger("IsAttackA");
-                curTime = coolTime;
+                curCombo = 1;
             }
-            curCombo = 1;
-        }
-        else
-        {
-            Debug.Log("-Time");
-            curCombo = 1;
-        }
+        //}
+        
     }
+
+    IEnumerator WaitForIt()
+    {
+        inTime = false;
+        yield return new WaitForSeconds(1.5f);
+        attackCombo = 3;
+        inTime = true;
+    }
+    
     private void OnDrawGizmos()
     {
         Gizmos.color = Color.yellow;
@@ -89,5 +117,9 @@ public class PlayerAttack : MonoBehaviour
     {
         Attack();
     }
-    
+    /*bool a=true;
+    private void aeae()
+    {
+        a = true;
+    }*/
 }

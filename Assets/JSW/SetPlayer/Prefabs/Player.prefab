@@ -199,6 +199,7 @@ MonoBehaviour:
   groundChack:
     serializedVersion: 2
     m_Bits: 64
+  attackRange: {fileID: 6441887967560344490}
   isGround: 0
 --- !u!114 &4740733775146106687
 MonoBehaviour:
@@ -226,6 +227,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pos: {fileID: 3726204746974980983}
   boxSize: {x: 1, y: 1}
+  coolTime: 0.5
+  attackCombo: 3
 --- !u!114 &5375650028887168435
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -263,7 +266,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6441887967560344490}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.01, y: 0, z: 0}
+  m_LocalPosition: {x: 1, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
